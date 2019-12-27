@@ -1,5 +1,5 @@
 # Student-Controller-PARTE 1
-Projeto de conclusão de curso, Técnico em Informática
+Projeto de conclusão de Curso: Técnico em Informática
 
 Desenvolvido por:
 Lucas Mota Leite;
