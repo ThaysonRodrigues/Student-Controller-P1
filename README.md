@@ -1,4 +1,4 @@
-# Student-Controller-PARTE 1
+# Student-Controller
 Projeto de conclusão de Curso: Técnico em Informática
 
 Desenvolvido por:
